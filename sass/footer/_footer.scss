@@ -1,0 +1,18 @@
+
+div.footer-box{border-radius: 8px;
+    padding: 20px;
+margin: 20px;
+width: 100%;}
+
+
+div.bandeja {padding: 0%;
+display: grid;
+grid-template-columns: 50% 50%;
+grid-template-rows: 200px 200px;
+gap: 1em;
+text-decoration: none;
+font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    place-items: left rigth;
+    margin: 5%;
+    font-size: 24px;}
